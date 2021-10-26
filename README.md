@@ -13,3 +13,6 @@ or
 ```
 yarn add
 ```
+
+mobx 배우기
+https://www.howdy-mj.me/mobx/mobx6-intro/
